@@ -1,0 +1,28 @@
+{
+  "name": "deffered",
+  "version": "1.0.0",
+  "description": "simple implement Deffered",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maczyt/deffered.git"
+  },
+  "keywords": [
+    "promise",
+    "deffered",
+    "async"
+  ],
+  "author": "maczyt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maczyt/deffered/issues"
+  },
+  "homepage": "https://github.com/maczyt/deffered#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
