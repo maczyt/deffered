@@ -1,6 +1,6 @@
 {
   "name": "deffered",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "description": "simple implement Deffered",
   "main": "index.js",
   "scripts": {
